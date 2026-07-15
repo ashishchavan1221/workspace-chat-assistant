@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.system_generated/
+*.log
+.ipynb_checkpoints/
+Simple_AI_AGENT.ipynb
+
